@@ -1,0 +1,10 @@
+{
+  "name": "tsumac/php-runtime-env",
+  "type": "project",
+  "description": "",
+  "keywords": [],
+  "license": "MIT",
+  "require": {
+    "phpunit/phpunit": "^8.5"
+  }
+}
